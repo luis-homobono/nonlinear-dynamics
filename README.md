@@ -1,2 +1,3 @@
-# nonlinear-dynamics
-Nonlinear Dynamics
+# Nonlinear Dynamics
+
+Repository with nonlinear models
